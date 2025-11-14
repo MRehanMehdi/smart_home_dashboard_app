@@ -16,4 +16,5 @@ A Flutter app to manage and monitor smart devices like lights, fans, ACs, and ca
 
 ```bash
 git clone https://github.com/MRehanMehdi/smart_home_dashboard_app.git
-cd smart-home-dashboard
+cd smart_home_dashboard_app
+
